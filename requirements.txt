@@ -9,3 +9,18 @@ wikipedia
 openai
 # ⚠️ Note: Some are built-in like webbrowser and datetime, but you can include them for completeness.
 
+Authentication
+{
+  "username": "admin",
+  "password": "1234"
+}
+
+ Project Structure
+
+ smart-ai-desktop-assistant/
+├── assistant.py           # Task functions, text-to-speech, and command handling
+├── main.py                # Main runner file (voice-activated assistant loop)
+├── recognizer.py          # Speech recognition functions
+├── server.py              # Flask API for remote control
+├── credentials.json       # For authentication
+├── README.md              # Project documentation
