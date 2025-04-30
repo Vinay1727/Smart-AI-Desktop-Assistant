@@ -1,0 +1,21 @@
+Features
+
+Wake word activation: "Hey Assistant"
+
+Voice recognition using speech_recognition
+
+Text-to-speech responses using pyttsx3
+
+Task automation including:
+
+Opening applications (Chrome, VS Code, Notepad, File Explorer, etc.)
+
+Accessing websites (YouTube, Google, Instagram)
+
+Sending WhatsApp messages
+
+Sending emails
+
+Playing music from YouTube
+
+User authentication via credentials.json

@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+pyaudio
+pyautogui
+webbrowser
+datetime
+pywhatkit
+wikipedia
+openai
+# ⚠️ Note: Some are built-in like webbrowser and datetime, but you can include them for completeness.
+
